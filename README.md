@@ -123,42 +123,42 @@
 <div align="center">
 
 **Dashboard — live cluster overview**
-<img src="assets/screenshots/dashboard.png" alt="Dashboard" width="85%">
+<img src="assets/dashboard.png" alt="Dashboard" width="85%">
 
 <br><br>
 
 **Pods — list and search**
-<img src="assets/screenshots/pods.png" alt="Pods" width="85%">
+<img src="assets/pods.png" alt="Pods" width="85%">
 
 <br><br>
 
 **Pod Details — inspect a single pod**
-<img src="assets/screenshots/pod-details.png" alt="Pod Details" width="85%">
+<img src="assets/pod-details.png" alt="Pod Details" width="85%">
 
 <br><br>
 
 **Deployments — scale and restart**
-<img src="assets/screenshots/deployments.png" alt="Deployments" width="85%">
+<img src="assets/deployments.png" alt="Deployments" width="85%">
 
 <br><br>
 
 **Deployment YAML — inline resource viewer**
-<img src="assets/screenshots/deployment-yaml.png" alt="Deployment YAML" width="85%">
+<img src="assets/deployment-yaml.png" alt="Deployment YAML" width="85%">
 
 <br><br>
 
 **Services — endpoint and port details**
-<img src="assets/screenshots/services.png" alt="Services" width="85%">
+<img src="assets/services.png" alt="Services" width="85%">
 
 <br><br>
 
 **Events — cluster event stream**
-<img src="assets/screenshots/events.png" alt="Events" width="85%">
+<img src="assets/events.png" alt="Events" width="85%">
 
 <br><br>
 
 **Live Logs — real-time streaming log explorer**
-<img src="assets/screenshots/live-logs.png" alt="Live Logs" width="85%">
+<img src="assets/live-logs.png" alt="Live Logs" width="85%">
 
 </div>
 
