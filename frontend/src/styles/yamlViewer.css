@@ -1,0 +1,42 @@
+.yaml-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.65);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.yaml-modal {
+  width: 90%;
+  max-width: 1100px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 25px rgba(0,0,0,.4);
+}
+
+.yaml-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px;
+  background: #252526;
+  color: white;
+}
+
+.yaml-actions {
+  display: flex;
+  gap: 12px;
+  padding: 15px;
+  background: #252526;
+}
+
+.close-btn {
+  border: none;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+}
